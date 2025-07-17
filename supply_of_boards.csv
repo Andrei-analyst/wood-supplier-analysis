@@ -1,0 +1,101 @@
+wood_type,treatment,width_cm,length_cm,price_usd,supplier,delivery_date,area_cm2,price_per_cm2
+Ash,Antiseptic,11.9,292.1,435.92,EcoWood,2025-04-23,3475.99,0.13
+Oak,Thermal treatment,19.1,148.6,451.18,LumberPlus,2025-06-01,2838.26,0.16
+Pine,Dry treatment,11.6,101.0,740.23,TimberCo,2025-05-14,1171.6,0.63
+Birch,Thermal treatment,10.8,104.1,414.56,LumberPlus,2025-05-06,1124.28,0.37
+Ash,Dry treatment,18.8,275.8,984.03,WoodTrade,2025-06-11,5185.04,0.19
+Birch,Thermal treatment,23.8,223.5,389.6,TimberCo,2025-06-09,5319.3,0.07
+Maple,Raw,10.9,129.5,593.82,LumberPlus,2025-05-20,1411.55,0.42
+Pine,Antiseptic,11.8,196.0,977.09,LumberPlus,2025-06-17,2312.8,0.42
+Pine,Dry treatment,13.6,242.9,610.24,LumberPlus,2025-05-14,3303.44,0.18
+Oak,Dry treatment,21.5,132.2,211.86,LumberPlus,2025-06-09,2842.2999999999997,0.07
+Maple,Thermal treatment,11.2,272.3,517.39,TimberCo,2025-05-23,3049.76,0.17
+Maple,Raw,12.4,159.0,301.68,WoodTrade,2025-06-10,1971.6,0.15
+Maple,Thermal treatment,14.0,153.0,843.48,TimberCo,2025-05-07,2142.0,0.39
+Maple,Antiseptic,20.0,294.9,996.6,LumberPlus,2025-06-04,5898.0,0.17
+Birch,Antiseptic,10.1,270.9,597.66,EcoWood,2025-04-25,2736.0899999999997,0.22
+Birch,Antiseptic,19.0,212.3,586.99,WoodTrade,2025-06-03,4033.7,0.15
+Ash,Dry treatment,10.8,290.7,397.15,EcoWood,2025-05-12,3139.56,0.13
+Ash,Raw,10.8,162.1,680.95,LumberPlus,2025-05-24,1750.68,0.39
+Maple,Dry treatment,10.6,275.0,843.78,WoodTrade,2025-06-22,2915.0,0.29
+Ash,Antiseptic,23.4,207.9,445.02,WoodTrade,2025-04-23,4864.86,0.09
+Ash,Antiseptic,22.3,288.1,694.94,EcoWood,2025-05-29,6424.630000000001,0.11
+Maple,Raw,20.4,247.0,938.99,TimberCo,2025-06-19,5038.799999999999,0.19
+Oak,Thermal treatment,11.2,176.4,976.97,LumberPlus,2025-05-25,1975.68,0.49
+Pine,Thermal treatment,13.9,269.0,818.73,LumberPlus,2025-04-23,3739.1,0.22
+Maple,Dry treatment,19.9,206.9,776.24,LumberPlus,2025-05-10,4117.3099999999995,0.19
+Oak,Thermal treatment,10.1,110.3,234.88,LumberPlus,2025-05-22,1114.03,0.21
+Ash,Thermal treatment,10.5,233.2,852.57,TimberCo,2025-06-02,2448.6,0.35
+Maple,Raw,17.7,100.1,252.24,LumberPlus,2025-04-26,1771.7699999999998,0.14
+Oak,Thermal treatment,10.9,166.5,294.35,LumberPlus,2025-05-28,1814.85,0.16
+Oak,Dry treatment,13.2,125.5,392.48,WoodTrade,2025-04-26,1656.6,0.24
+Pine,Thermal treatment,16.9,142.8,269.08,TimberCo,2025-04-26,2413.32,0.11
+Maple,Antiseptic,16.8,176.8,230.08,LumberPlus,2025-05-03,2970.24,0.08
+Birch,Antiseptic,20.5,173.5,796.64,LumberPlus,2025-04-27,3556.75,0.22
+Pine,Antiseptic,14.6,273.9,910.47,EcoWood,2025-06-01,3998.94,0.23
+Oak,Dry treatment,24.2,250.2,426.68,TimberCo,2025-06-08,6054.839999999999,0.07
+Birch,Raw,21.5,247.3,373.42,EcoWood,2025-06-08,5316.95,0.07
+Pine,Raw,11.4,230.8,313.3,LumberPlus,2025-06-04,2631.1200000000003,0.12
+Ash,Antiseptic,15.9,209.9,411.47,LumberPlus,2025-05-16,3337.4100000000003,0.12
+Maple,Thermal treatment,11.7,124.1,568.44,TimberCo,2025-06-06,1451.9699999999998,0.39
+Birch,Raw,15.7,217.6,710.36,EcoWood,2025-05-17,3416.3199999999997,0.21
+Birch,Antiseptic,12.6,257.7,364.39,EcoWood,2025-05-26,3247.02,0.11
+Oak,Raw,13.1,278.6,859.7,WoodTrade,2025-05-01,3649.66,0.24
+Birch,Thermal treatment,20.0,236.3,241.67,TimberCo,2025-05-30,4726.0,0.05
+Ash,Antiseptic,12.1,225.3,358.61,WoodTrade,2025-05-20,2726.13,0.13
+Pine,Raw,15.4,278.3,391.37,EcoWood,2025-05-05,4285.820000000001,0.09
+Ash,Dry treatment,10.6,125.4,775.47,LumberPlus,2025-05-05,1329.24,0.58
+Ash,Raw,11.8,152.3,849.97,LumberPlus,2025-05-08,1797.1400000000003,0.47
+Ash,Antiseptic,21.2,182.9,271.01,TimberCo,2025-05-28,3877.48,0.07
+Oak,Dry treatment,15.0,143.3,659.75,WoodTrade,2025-06-01,2149.5,0.31
+Maple,Thermal treatment,14.3,194.4,733.77,WoodTrade,2025-06-21,2779.92,0.26
+Maple,Dry treatment,15.5,126.5,923.77,WoodTrade,2025-05-24,1960.75,0.47
+Birch,Raw,14.7,193.2,761.14,WoodTrade,2025-05-05,2840.0399999999995,0.27
+Birch,Raw,23.0,259.7,702.48,LumberPlus,2025-06-03,5973.099999999999,0.12
+Oak,Raw,14.5,241.6,327.49,TimberCo,2025-05-25,3503.2,0.09
+Birch,Thermal treatment,15.2,188.4,676.61,TimberCo,2025-04-28,2863.68,0.24
+Maple,Antiseptic,16.1,137.8,777.02,TimberCo,2025-06-14,2218.5800000000004,0.35
+Birch,Dry treatment,12.4,154.3,572.82,TimberCo,2025-05-03,1913.32,0.3
+Ash,Raw,15.5,194.3,614.59,TimberCo,2025-06-19,3011.65,0.2
+Pine,Thermal treatment,13.3,229.5,683.9,TimberCo,2025-05-28,3052.3500000000004,0.22
+Maple,Raw,21.9,254.9,415.74,LumberPlus,2025-04-23,5582.3099999999995,0.07
+Ash,Dry treatment,15.4,155.8,842.08,EcoWood,2025-06-14,2399.32,0.35
+Pine,Raw,17.5,285.4,309.83,EcoWood,2025-06-04,4994.5,0.06
+Pine,Dry treatment,10.4,269.2,221.5,LumberPlus,2025-06-21,2799.68,0.08
+Maple,Raw,13.7,176.2,650.94,LumberPlus,2025-05-03,2413.9399999999996,0.27
+Birch,Antiseptic,19.3,176.9,794.63,WoodTrade,2025-04-28,3414.17,0.23
+Ash,Raw,13.5,145.0,833.44,TimberCo,2025-05-29,1957.5,0.43
+Pine,Thermal treatment,14.1,123.0,351.86,WoodTrade,2025-06-18,1734.3,0.2
+Ash,Raw,13.8,227.2,833.88,LumberPlus,2025-05-01,3135.36,0.27
+Pine,Dry treatment,16.5,120.0,265.8,LumberPlus,2025-04-23,1980.0,0.13
+Maple,Dry treatment,24.7,210.4,274.65,TimberCo,2025-05-13,5196.88,0.05
+Birch,Antiseptic,22.7,195.0,607.63,WoodTrade,2025-06-06,4426.5,0.14
+Birch,Antiseptic,16.6,297.6,596.26,EcoWood,2025-06-19,4940.160000000001,0.12
+Pine,Raw,19.1,118.9,624.4,TimberCo,2025-05-06,2270.99,0.27
+Maple,Thermal treatment,22.3,257.5,973.88,TimberCo,2025-05-25,5742.25,0.17
+Ash,Thermal treatment,18.1,119.1,924.39,EcoWood,2025-06-20,2155.71,0.43
+Oak,Raw,22.9,282.8,244.71,WoodTrade,2025-05-01,6476.12,0.04
+Pine,Antiseptic,21.1,237.7,585.7,TimberCo,2025-05-10,5015.47,0.12
+Oak,Dry treatment,22.1,124.0,437.62,LumberPlus,2025-04-24,2740.4,0.16
+Maple,Antiseptic,23.9,176.7,886.62,LumberPlus,2025-04-27,4223.129999999999,0.21
+Ash,Raw,10.4,127.2,688.37,WoodTrade,2025-04-29,1322.88,0.52
+Birch,Thermal treatment,11.1,196.9,476.27,WoodTrade,2025-05-29,2185.59,0.22
+Oak,Thermal treatment,12.5,187.7,498.42,LumberPlus,2025-06-03,2346.25,0.21
+Pine,Antiseptic,19.8,296.9,879.01,LumberPlus,2025-04-30,5878.62,0.15
+Ash,Antiseptic,24.3,190.3,649.11,TimberCo,2025-05-23,4624.29,0.14
+Maple,Antiseptic,10.6,110.3,291.25,TimberCo,2025-06-05,1169.1799999999998,0.25
+Pine,Thermal treatment,22.1,230.5,675.64,TimberCo,2025-05-27,5094.05,0.13
+Pine,Raw,14.8,136.2,810.84,EcoWood,2025-05-16,2015.76,0.4
+Birch,Antiseptic,21.0,196.4,222.8,WoodTrade,2025-06-07,4124.400000000001,0.05
+Oak,Antiseptic,18.8,287.3,826.7,TimberCo,2025-05-06,5401.240000000001,0.15
+Maple,Raw,17.5,101.2,857.3,WoodTrade,2025-05-14,1771.0,0.48
+Maple,Thermal treatment,19.2,296.5,789.04,LumberPlus,2025-05-24,5692.8,0.14
+Oak,Antiseptic,19.2,129.7,274.56,LumberPlus,2025-05-01,2490.24,0.11
+Pine,Thermal treatment,18.5,256.2,815.33,WoodTrade,2025-04-23,4739.7,0.17
+Birch,Raw,21.6,233.7,755.88,TimberCo,2025-04-28,5047.92,0.15
+Ash,Raw,16.0,119.3,316.07,EcoWood,2025-05-17,1908.8,0.17
+Birch,Thermal treatment,16.1,151.6,377.8,LumberPlus,2025-05-06,2440.76,0.15
+Ash,Antiseptic,23.5,121.8,531.9,WoodTrade,2025-04-24,2862.2999999999997,0.19
+Birch,Raw,21.4,205.2,515.6,TimberCo,2025-06-17,4391.28,0.12
+Ash,Raw,12.4,206.4,397.71,LumberPlus,2025-05-24,2559.36,0.16
+Birch,Thermal treatment,20.5,261.5,364.9,WoodTrade,2025-05-18,5360.75,0.07
