@@ -16,3 +16,5 @@ Implemented in Python using Pandas and Matplotlib.
 - `Resume Wood_Supplier_Analysis.pdf` — project summary
 
 View full profile: [Upwork – Andrei G.](https://www.upwork.com/freelancers/~0152af1106a52493d6) 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andrei-analyst/wood-supplier-analysis/blob/main/wood_supplier_analysis.ipynb)
